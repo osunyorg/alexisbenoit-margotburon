@@ -9,7 +9,7 @@ items:
   target: "/temoignages-de-mes-clients-en-redaction-web-seo-i-margot-buron/"
   kind: page
   children: []
-- title: Papotages sur le SEO
+- title: On parle SEO
   target: "/actualites/"
   kind: page
   children: []
