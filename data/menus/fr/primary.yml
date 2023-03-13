@@ -13,4 +13,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Rencontrons-nous
+  target: "/rencontrons-nous-pour-parler-seo-avec-le-sourire-i-margot-buron/"
+  kind: page
+  children: []
 
