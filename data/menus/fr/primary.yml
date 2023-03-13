@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: À propos
+  target: "/qui-se-cache-derriere-la-plume-de-redactrice-web-i-margot-buron/"
+  kind: page
+  children: []
 
