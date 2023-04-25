@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: À propos
-  target: "/qui-se-cache-derriere-la-plume-de-redactrice-web-i-margot-buron/"
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Des mots doux
