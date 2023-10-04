@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Des mots doux
-  target: "/mots-doux/"
+  target: "/vos-mots-doux/"
   kind: page
   children: []
 - title: On parle SEO
