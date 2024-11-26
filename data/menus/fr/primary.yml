@@ -5,16 +5,20 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 - title: Des mots doux
   target: "/vos-mots-doux/"
   kind: page
   children: []
+  file: content/fr/pages/vos-mots-doux/_index.html
 - title: On parle SEO
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Rencontrons-nous
   target: "/contact/"
   kind: page
   children: []
+  file: content/fr/pages/contact/_index.html
 
